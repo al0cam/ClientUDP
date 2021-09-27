@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  ClientUDP.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ClientUDP.vcxproj -> C:\Users\bucom\source\repos\ClientUDP\Debug\ClientUDP.exe
